@@ -1,15 +1,9 @@
-import requests, json, csv
-
-OWNER = "ThomasChuDesigns"
-REPO = "pyRPG"
-
-KEYWORDS = {"fix": True}
+from core.mine_commit import get_repository_commits, parse_commits
+from core.utils import export_to_csv
 
 def main():
-    endpoint = requests.get("https://api.github.com/repos/{}/{}/commits".format(OWNER, REPO))
-    data = endpoint.json()
-
-    for commit in data:
-        print(commit["commit"]["message"])
+    repo = get_repository_commits('ThomasChuDesigns', 'pyRPG')
+    export_to_csv(parse_commits(repo, {'added'}), 'results/test')
+    print('csv file created!')
 
 main()
