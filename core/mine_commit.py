@@ -22,7 +22,7 @@ def parse_commit(data):
 
     return {
         'Commit SHA': data['sha'],
-        'Commit message': str(data['commit']['message'].encode('utf-8'))[1:]
+        'Commit message': data['commit']['message']
     }
 
 def filter_commits(data, keywords=['fix']):

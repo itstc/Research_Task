@@ -10,7 +10,7 @@ def export_to_csv(results, path):
         print(results)
         return 0
 
-    with open(path, 'w', newline='') as f:
+    with open(path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, ['Commit SHA', 'Commit message'])
         writer.writeheader()
         writer.writerows(results)
