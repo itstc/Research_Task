@@ -1,0 +1,465 @@
+Commit SHA,Commit message
+f079291355f1d57253e06fe06778eacc72275ff3,"Merge pull request #281 from Mosrod/patch-2
+
+Fixed Organize.py for Python3"
+bf9380f7dad18885df6eb131b98fae511be6a1b6,"Merge pull request #280 from RabiNathJha/master
+
+adds to batch_file_rename.py"
+6d91f3b0c44925de1218a11b81b52e3552727c51,"Merge pull request #279 from DemetriosBairaktaris/master
+
+Add option to use command line arguments to script"
+60a1955fc04dd5fdff8ca3504cbf535ef565161c,"Fixed for Python3
+
+Added missing parenthesis for Python 3 and changed raw_input to input"
+84411cca1bc4da6cce6c3a376135f51f564ebd4a,adds to batch_file_rename.py
+9dd8257c6914a217297a6fd3167b4230da8b7719,added option to use command line arguments to script
+efcec4c4adafda950984f1b95460a9db1bd5a623,"Python Assembler interpreter
+
+I added a assembler (intel-syntax) interpreter written in python 2."
+de4e509f84f50d69d0e0c66a4c1e0151d662f5cf,"Merge pull request #270 from christianbender/master
+
+Fix Bug and refactoring"
+ed59a84ed9eec960200d57543063f4ce3daa11a1,"fix a bug
+
+I fixed a bug ""index out of range""
+and do some beautification."
+2169465fd7851309207bde3c5953c1e2537c3e94,"Add a lib and do some beautification
+
+check_input.py
+  some improvements and documented.
+
+calculator.py
+ some improvements and documented
+
+I add my python lib called primelib. This python library contains some useful functions to deal with
+prime numbers and whole numbers."
+a291a50f4046e458546889b67fc916a756867e31,"Merge pull request #267 from mcostigliola/master
+
+Added check if file present"
+55f5f6f45f81ffa95eea96ed9e066d62556dc1fa,"Added check if file present
+
+If the file is present it continues in the execution of the program, otherwise it manages an exception and asks to try again"
+28b5151550f0fcae7f48fe5a55df4a44ba8b0161,"Merge pull request #264 from pandyamarut/add_m
+
+Add m"
+b6d7384916b4a1864459033891255fb480e37312,"Merge pull request #266 from the-vishal/master
+
+Adding files"
+a9185206a0f4f4f220612c2ad9871c62c497f7f0,added seperate link for sports
+f66c3992bb2dd861faa6de13890f45fead2cc1a4,added the sepetate link for sports section
+04ea30cfb281f93f64f1697a3c45c3b0a5c950d6,"Update diceV2_dynamic.py
+
+Just a quick add of comments I forgot the first time."
+53c8693ca285c809639f0beb0136f0071616a1bc,"Merge pull request #258 from anuragkumarak95/master
+
+Added knuth-morris-pratt pattern in a String search algo."
+2d846e759a7ed6e480e5d67f734b52716677d7c5,"added prime number finding algo, using Sieve_of_Eratosthenes theory."
+ca3de6545d5da1268bfb223b242a6c9300c6b926,added knuth-morris-pratt pattern in a string search module.
+2e4b7a5cdcee56636cd47c19ea8cfaf83a2791a3,"Merge pull request #253 from Colcothar/patch-1
+
+Added ;"
+aed5aba8265642e4f2b38d8a71b3655f19cee913,"Merge pull request #254 from anuragkumarak95/master
+
+Added Chickens and Rabbits(Ancient Chinese Puzzle) Question."
+d7c945f3493a16c970cdf3a46dcd37ec2e80c192,"Merge pull request #256 from ishitbatra/patch-1
+
+blank spaces added"
+5cb53937f87985bd9b1ed7ca7dbe3109bcbe7256,"blank spaces added
+
+blank space added"
+cf8a21bfd37f157e2ec075799c2c548628623102,added Chickens and Rabbits(Ancient Chinese Puzzle) Question.
+dac12ba497eb8ede62dae41456f9f0ca94bd5ebf,"Added ;
+
+Added ; in place of ,"
+8113b9ad7e62dc6edf5a802efe4b599f2a18cf27,"added two_num.py, [ques]Sum of 2 numbers being a given target."
+01408a71b365e61f13fe743cca3975aab0dd08e7,"Update Print_List_of_Even_Numbers.py
+
+Added support for python 2."
+0099acaa04339427cf6b19dce84500bf9a9af2c6,"updated wiki_random.py, added module doc and few exception handing."
+7e641f48c5a4d2513ce984aec24979bb9437646a,"added wiki_random.py, use for generating 10 random WIKI pages,
+and open a page according to request."
+b707a97ecb45d89537c90d8328224b91dfc6761a,"updated magic8ball.py, module doc added."
+4aa70af59b53368fdf08d69c90ecfece02aa1af8,added magic8ball game. simple random pickup algorithm.
+f4275902ddb93453a98108bdc05049e225e18a63,"Merge pull request #245 from NaeemSheikh/patch-1
+
+minor fix to function oneLineCombinations()"
+4605cb4169da148d0541c2751a403a2cb3439007,"moved GOL to new dir, added sample.gif output of the code."
+1fe34028b8ecc689d7d9728f6d13e5a1ae223061,added plotting of the canvas
+516e778fa0c30c75990096d7bf33ae4d6a75bbe5,added Game of Life module
+4ffa02e63ba2ccab8b1e9e1fb9808133a843c52e,"minor fix to function oneLineCombinations()
+
+I ran the second function and it only cycled from 0000 to 0999 as the range in the program is range(1000).
+Doesn't really need fixing, as people will understand that the range in the code needs an extra 0, but I would like to submit this change of range to range(10000) just for the sake of completion."
+f079291355f1d57253e06fe06778eacc72275ff3,"Merge pull request #281 from Mosrod/patch-2
+
+Fixed Organize.py for Python3"
+bf9380f7dad18885df6eb131b98fae511be6a1b6,"Merge pull request #280 from RabiNathJha/master
+
+adds to batch_file_rename.py"
+6d91f3b0c44925de1218a11b81b52e3552727c51,"Merge pull request #279 from DemetriosBairaktaris/master
+
+Add option to use command line arguments to script"
+60a1955fc04dd5fdff8ca3504cbf535ef565161c,"Fixed for Python3
+
+Added missing parenthesis for Python 3 and changed raw_input to input"
+84411cca1bc4da6cce6c3a376135f51f564ebd4a,adds to batch_file_rename.py
+9dd8257c6914a217297a6fd3167b4230da8b7719,added option to use command line arguments to script
+efcec4c4adafda950984f1b95460a9db1bd5a623,"Python Assembler interpreter
+
+I added a assembler (intel-syntax) interpreter written in python 2."
+de4e509f84f50d69d0e0c66a4c1e0151d662f5cf,"Merge pull request #270 from christianbender/master
+
+Fix Bug and refactoring"
+ed59a84ed9eec960200d57543063f4ce3daa11a1,"fix a bug
+
+I fixed a bug ""index out of range""
+and do some beautification."
+2169465fd7851309207bde3c5953c1e2537c3e94,"Add a lib and do some beautification
+
+check_input.py
+  some improvements and documented.
+
+calculator.py
+ some improvements and documented
+
+I add my python lib called primelib. This python library contains some useful functions to deal with
+prime numbers and whole numbers."
+a291a50f4046e458546889b67fc916a756867e31,"Merge pull request #267 from mcostigliola/master
+
+Added check if file present"
+55f5f6f45f81ffa95eea96ed9e066d62556dc1fa,"Added check if file present
+
+If the file is present it continues in the execution of the program, otherwise it manages an exception and asks to try again"
+28b5151550f0fcae7f48fe5a55df4a44ba8b0161,"Merge pull request #264 from pandyamarut/add_m
+
+Add m"
+b6d7384916b4a1864459033891255fb480e37312,"Merge pull request #266 from the-vishal/master
+
+Adding files"
+a9185206a0f4f4f220612c2ad9871c62c497f7f0,added seperate link for sports
+f66c3992bb2dd861faa6de13890f45fead2cc1a4,added the sepetate link for sports section
+04ea30cfb281f93f64f1697a3c45c3b0a5c950d6,"Update diceV2_dynamic.py
+
+Just a quick add of comments I forgot the first time."
+53c8693ca285c809639f0beb0136f0071616a1bc,"Merge pull request #258 from anuragkumarak95/master
+
+Added knuth-morris-pratt pattern in a String search algo."
+2d846e759a7ed6e480e5d67f734b52716677d7c5,"added prime number finding algo, using Sieve_of_Eratosthenes theory."
+ca3de6545d5da1268bfb223b242a6c9300c6b926,added knuth-morris-pratt pattern in a string search module.
+2e4b7a5cdcee56636cd47c19ea8cfaf83a2791a3,"Merge pull request #253 from Colcothar/patch-1
+
+Added ;"
+aed5aba8265642e4f2b38d8a71b3655f19cee913,"Merge pull request #254 from anuragkumarak95/master
+
+Added Chickens and Rabbits(Ancient Chinese Puzzle) Question."
+d7c945f3493a16c970cdf3a46dcd37ec2e80c192,"Merge pull request #256 from ishitbatra/patch-1
+
+blank spaces added"
+5cb53937f87985bd9b1ed7ca7dbe3109bcbe7256,"blank spaces added
+
+blank space added"
+cf8a21bfd37f157e2ec075799c2c548628623102,added Chickens and Rabbits(Ancient Chinese Puzzle) Question.
+dac12ba497eb8ede62dae41456f9f0ca94bd5ebf,"Added ;
+
+Added ; in place of ,"
+8113b9ad7e62dc6edf5a802efe4b599f2a18cf27,"added two_num.py, [ques]Sum of 2 numbers being a given target."
+01408a71b365e61f13fe743cca3975aab0dd08e7,"Update Print_List_of_Even_Numbers.py
+
+Added support for python 2."
+0099acaa04339427cf6b19dce84500bf9a9af2c6,"updated wiki_random.py, added module doc and few exception handing."
+7e641f48c5a4d2513ce984aec24979bb9437646a,"added wiki_random.py, use for generating 10 random WIKI pages,
+and open a page according to request."
+b707a97ecb45d89537c90d8328224b91dfc6761a,"updated magic8ball.py, module doc added."
+4aa70af59b53368fdf08d69c90ecfece02aa1af8,added magic8ball game. simple random pickup algorithm.
+f4275902ddb93453a98108bdc05049e225e18a63,"Merge pull request #245 from NaeemSheikh/patch-1
+
+minor fix to function oneLineCombinations()"
+4605cb4169da148d0541c2751a403a2cb3439007,"moved GOL to new dir, added sample.gif output of the code."
+1fe34028b8ecc689d7d9728f6d13e5a1ae223061,added plotting of the canvas
+516e778fa0c30c75990096d7bf33ae4d6a75bbe5,added Game of Life module
+4ffa02e63ba2ccab8b1e9e1fb9808133a843c52e,"minor fix to function oneLineCombinations()
+
+I ran the second function and it only cycled from 0000 to 0999 as the range in the program is range(1000).
+Doesn't really need fixing, as people will understand that the range in the code needs an extra 0, but I would like to submit this change of range to range(10000) just for the sake of completion."
+1d2c13ab270b4dc8542c71a0e603da8f7548c1d4,"Added EncryptionTool.py
+
+An early version of a personal project"
+ef65fc087f4cdf25dae8d16aaaa5bbaf514cffae,"Update
+
+Added another type , tvshort to the movie_types"
+9a3b85691b39a2c4c42f93f3577ab513ea722d2a,"Merge pull request #231 from Digres45/cricketScore
+
+fix to show all the matches"
+6b70f4c6426da7e21709669094b79ec3d50fc47c,"Merge pull request #234 from RGauthamRam/patch-3
+
+Fixed some alignment of comments"
+62f78bf21d2d024278054da7e3dee5134fa6d04e,"Merge pull request #235 from vishesh1042/master
+
+Added a New Script To Download Spotlight Wallpapers"
+d8c96769d45ea87f79ad9316b6c3cbc37148343a,"Merge pull request #236 from faresbessrour/compilations-fix
+
+4 Digits Number Combinations wasn't compiling"
+06167dba932e44f228f876d0018723470501e0f6,"added sierpinski_triangle.py, an easy fractal generation code, using turtle for printing."
+055048cb34a7ac89683ab528d001c5c1b5e01a30,Added a New Script To Download Spotlight Wallpapers from Windows into a new folder
+9024f6e32c07b0b4c5f3c2489a403b11b8129e91,Fixed some alignment of comments
+8b0cd030e08127888b1a0620a3e8d9d778caf810,added tf_idf_generator.py
+8f287472e175cae4af3443dc349cca22c2c7749e,fix shows all the matches
+5106dcd819e5fe7ac255d58b82b7e43e1c8d8aca,"Merge pull request #225 from yashLadha/master
+
+Added Prison Break Scrapper"
+71926b1c98a1167b38e3d4ded86110f889c493ac,"Merge pull request #217 from SlimxShadyx/patch-1
+
+Added comments to dice_rolling_simulator.py"
+e86711b7917c3a96585cb46b794b653f14a70337,"Colors are changed
+
+If the text color and bg color is same,then the text will not be visible
+So I added few lines to ensure that they remain different."
+36bc215dc6784fc4bf53d5073acbc4001821832c,Added Prison Break Scrapper
+0c03e5bbca129e9b4b29c0a5da459f0f5233366b,Fixed extensions arguments
+897d540212bb9eb9c5139bd4bcc56fb6712c0f5a,Fixed extensions arguments
+6090eb3b6419bf2ae51e52a9ea6f6db06d515ee4,"Update README.md
+
+added youtube.py"
+e8139e926210604db7fda828c1bc52887fa586c8,"Added comments to dice_rolling_simulator.py
+
+Added comments to the code to help explain what is going on and why."
+2f5c40792d034a7386478e0b236d1fa943d03ddc,"Merge pull request #215 from dzenvikas/master
+
+comment added"
+90f9b8420633aae38727c73cf481f79bf673a85f,"comment added
+
+More clarification added to the code."
+36ce63a391a33f9b393b7c891154df40cab88b34,"Merge pull request #210 from made2591/issue-209
+
+Fix issue #209"
+d820bac72db65ba2e323dadf0fd9bc8bdebf5ba2,Fix issue #209
+871432fb3e5f24af8a6661586ea3c14437dd41aa,"Merge pull request #205 from mayararysia/master
+
+spaces between the '=' character added"
+87d0162ec2844bf6bb6789c45dad32309a864b33,"Merge pull request #199 from fanofxiaofeng/patch-2
+
+fix small typo"
+0efa67ba46a1ce4301c04111f95bff38f002cc1b,"fix small typo
+
+fix one typo (from 'itsself' to 'itself')"
+ea61fe837dd6d94a5f85cb96e547bcf38d0580d1,"Merge pull request #196 from shreydan/master
+
+calculator.py: fixed mod error, new features and code changes"
+2cc27ef963fb40a6501cf7c378f00ea2c9856159,"calculator.py: fixed mod error, new features and code changes"
+9d4802e8edddac2eaf3172da259737c48f0c6fa9,"Merge pull request #194 from yadneshk/master
+
+Added modulus function"
+32b98c122c13593f0b028af71cb9e5b934605243,"Merge pull request #195 from sandynigs/master
+
+Add line_count and character counting capability"
+c9e6e5122a7601d3e98d53e53a24c76e8e20431b,Add line_count and character counting capability
+02adaa53938b29b8d327d007b5cd6f296a74d932,"Added modulus function
+
+The script is now capable find modulus too"
+544988d74184877c3cce37d08dc83b197c138bec,"Merge pull request #192 from fanofxiaofeng/patch-1
+
+small typo fix"
+07a304279c92ffb68019d1aea38330aadf97dc68,"small type fix
+
+from 'exceded' to 'exceeded'"
+0167bbd1837e694e3fd71188736b7c9a9784cacf,"Merge pull request #190 from ngdangtuan/patch-1
+
+add while loop"
+3507b1a978cdcd0f75c69c981215837b5dd3ca0b,"Merge pull request #191 from mohitsharmaaa/master
+
+Added Google News and Live Cricket Score Script"
+d95efdf6f2b32377f3cfd6a4157e5f20a1d202ef,Added Google News and live Cricker score script
+3f4bae177e14376e4a00d33f8088ae0ca1064f84,add while loop
+0b7f34a7c95b2b7c503c7661fd2d9ef5fde25a44,"Merge pull request #183 from EroMonsterSanji/variation1
+
+Fixed the missing semicolon of variation1.py"
+e42031e71206da221b590ae8576c485158a92f3e,"Update dice_rolling_simulator.py
+
+Someone suggested me not to use while too much, so tried to create an alternative. 
+I am a newbie and this is my first contribution!
+A line in the previous code (The equivalent to which in the current code is line #26 said [10], which should have been [12], please fix it. Thanks."
+bc897d914fc7d97a863ad9e96f433d7db1b9d189,fixd missing semicolon
+372f3745356e47e74802271893015c4e9643d00a,add main()
+9976c99cafb7ec9edfa7eb8b3da2d39bea5b9bb1,"Merge pull request #174 from OmkarPathak/fix/readme-update
+
+Clean comments"
+cc99f740e7812b1614465ee02beb55ffee5272dc,"Merge pull request #172 from ayush1999/patch-1
+
+NameError fix calculator.py"
+5145ae0a282ae548f4cd39a052942ce8506f141a,"Merge pull request #175 from Angus3321/patch-2
+
+Add some judgement when changing sides."
+ef81a1db9a209eb2a7da6e33fe2552faae5a46a5,Add some judgement when changing sides.
+c3fbc5eba53fb7759ff10cab60902d6192e466a1,"NameError fix calculator.py
+
+using the normal input() function was causing a NameError.
+changing it to raw_input() fixed this."
+8c220e7c9b574ce9b996c2d2079e6b5cf3939eba,"Refactor hard-coded values to allow flexibility.
+
+Refactor hard-coded values to allow flexibility, and fixed a few spelling errors in the comments."
+361f08ed489046d91774b772d3f77e9703a5b739,"Merge pull request #166 from sahrulhs/master
+
+Add files via upload"
+3df211798e7798f7c2a1a00c293d83f6ac58280b,"Merge pull request #165 from mam8/master
+
+fix a typo"
+6f6ba645cc43f8e79170ad66e357a65fe08d70c4,"Merge pull request #160 from BhushanDhamale/patch-1
+
+Fixed lack of output"
+29f4568ad7095d3ddc3f85098178546983859ef6,Add files via upload
+7b9ba021853b9b1941d17c9fecedf187db6b2aaf,fix a typo
+4af51ddaf1946ce471fe3634015c7c4b35076604,"Merge pull request #164 from shreydan/master
+
+added calculator.py"
+a8a894a46daf2d7b6655f6b2530a0d4331ce67a0,added calculator.py
+0772ec499cb918d0815e62323711c98cf9558ea5,"Merge pull request #157 from shreydan/master
+
+Added xkcd_downloader and timymodule"
+09fafc8ca4bc87f9d7e6093425502816886a1973,"Fixed lack of output
+
+Fixed <generator object <genexpr> at 0x7eff46a77910> output when script is run in Python 2.7.12"
+7162032d25bed438202b0c3f05d3ec6b7799247e,Added comments
+88625a48ba33b52a4fb490ede333b9ad0fd57172,tabs -> spaces and added __main__
+def3eaaed958c7230b0392db7a98a74408307e42,Added xkcd_downloader and timymodule
+f3582777e45dc9d3e310ec50716b42db9d7a2838,"In the current code, only single line tweets are enabled.
+This fix allows the user to enter a single/multi-line text to tweet"
+919b803123e1a55625ea278e37303dcb759a8de8,"Merge pull request #141 from scrpatlolla/master
+
+Fixed the Bug!"
+1e95ff0d5cd0c73a4c9628d63922bdbc5c378c52,"Fixing search url
+Initially, when keyword='earth' (say),
+search url- 'http://google.com/search?q=e a r t h'
+After fix
+search url- 'http://google.com/search?q=earth'"
+f77e1329779fbfffe5bce2b267ae78218e773e95,"Adding comments- author, description, usage and version"
+35c95b655200af51365588b9fe15caf5ccf5d987,Fixed the Bug!
+325a1798a50edcccd20ac4260287da77c31a96c5,"Added Way2sms messaging script
+
+It allows to send group sms using way2sms,with little tweaking you can
+make this send automated messages at set times."
+ee8f92c74f2a6d0ae88a0bab66d4e7031c900428,"Update create_dir_if_not_there.py
+
+added os.path.jon() for making a full path safely and it's python3 compatible"
+bc85e735934382e9262fa382564e30a41640f648,"Merge pull request #130 from shreydan/master
+
+Added tweeter.py"
+b7583ffdbc6b9f72f580850d7a4410015f75858c,"Merge pull request #126 from calmjohnson/master
+
+added a multiplication table"
+ce5d1e8d267acd1e3d738b8879ae000a159344dd,Added tweeter.py:
+7eafe684714bd59d3933161df4908a9ae2ac802c,"Merge pull request #129 from nix-py/add-pr
+
+Script to check local and public IP address"
+1fda62d35010e4c3ae8973640e578cf81c073f65,"Merge pull request #125 from zjuchenyuan/patch-1
+
+docs: Add Requirements"
+721bc9c1390e8aacf8bc023c2363c3b9fc805ce2,"Add myip.py script
+
+closes #128"
+54bb4ab1954e7969172bac4e6d2f2b877c1227b7,"added a multiplication table
+
+multiplication table - script to generate a multiplication table
+requires two arguments when running the script
+rows - for the width of the tables
+columns - for the length of the tables"
+b8e77af66379caaf4f51102d5545c39eb6404d4e,"docs: Add Requirements
+
+saving time for look up how to install the ""cv2"" package"
+4fbcb688d30638d8efa54af72b939c4da01f275b,"Merge pull request #122 from boksasp/master
+
+Bugfix in folder_size.py. Remove indents in dictionary, and add *1024…"
+dc307f17ede23541eac3a48cbf451a40f1041b29,"Bugfix in folder_size.py. Remove indents in dictionary, and add *1024 to Gigabytes."
+4928091f88a02e1341bc98e1c1b6e830ca1fd866,"Merge pull request #117 from shubhamsinghrathi/master
+
+fixing a bug in 'batch_rename'"
+ef85b642398121823e18fea19aa652894c9fc171,fixing a bug in 'batch_rename'
+5d44e4127c42f34bd6821e4e0ad9d381bfa29d77,"Merge pull request #116 from manishSRM/master
+
+added parser for command line argument in batch_file_rename.py"
+6d20ed99deaba65499bc23d29ade9a0b8af0f3bd,added parser for command line argument in batch_file_rename.py
+39a41218b5f0f41632a9311e04cf310d89336739,"Update and rename Print List of Even Numbers to Print_List_of_Even_Numbers.py
+
+Changed file to a `.py` one, added a `:` after the `for` statement, and added an indent before the `print(x)` statement."
+c3f43912bdcf252bb87ae60acd37f3ae06042287,"Updated movie_details
+
+Added a list of movie types"
+8a89b232b54ae395f65bfadf2923e0a43c063276,"Merge pull request #99 from aaronthj16/folder-size
+
+Added argument support to folder_size.py"
+ebe48cee18d20af0837235723e9b4c3ab0774b60,"Added argument support to folder_size.py
+
+I made it easier to tell which directory by the arguments supplied to calculate folder size. I am
+trying to learn git and python so any comments is appreciated."
+42870c919f4a3a5946659e51e9d768098eb03724,"Merge pull request #85 from practicepy/readme
+
+Added title to Readme.md file"
+ca8e14186ed673baaf1c7d7be206e8d79c8c4b20,"Merge pull request #73 from qhuang872/fix-readme
+
+Fix readme"
+6d5ec05704bfcc96c31b5c47bfc1e84639b015dc,"Merge pull request #71 from xBartu/master
+
+fix indentetion mistake"
+96547c0e88b898ff1741b9e83c20defe487e1718,"Merge pull request #67 from mayanksatnalika/master
+
+Added movie_details and Jee_result"
+53b9bc5862f2a2c8b1519abc97546aaf52efa895,Added README.md title
+e4e131a482affed2c8d6dea1fd35d64b9f2b950b,Added repo title in README file
+1f4548eaeeea6569a2f4f0c2986728e97ca99210,added print function
+66073751dcd89c578394108dfcd390ec43eef582,"Update osinfo,py
+
+Adding bold font to the output"
+f4971c83104410e47739f1df2005448248fdbfd7,I fixed some grammer errors in readme file
+c7de11521c22bb4cdbc029d2f5a7e457ca02e65b,I fixed a few grammer mistakes on README.md
+9d91244146bf725eea7012fd07e59d06bde12b68,fix indentetion mistake
+e6f6020f8b6308178ce0b3d06daf8833bfe9012f,Added usage() and multiple file support
+b513fb9fa436ee1031b2e356d5bb1cb464381ccb,Added usage() and multiple file support
+5ce4f416a94dc27834d4866ca924d86e002d506c,"Added usage() and multiple file support
+
+Added usage() function to print usage and provided support to take multiple filename in command line arguments and check all of them"
+cfcd3bb88e78301838f1f51f82c1af863b8b1c31,"Merge pull request #62 from minto4644/master
+
+Fixed AttributeError checking for all properties"
+367ff3346d23f0bdd273346ead7e41103b42ae50,"Enforce correct file closure
+with statement added to ensure file is correctly closed under all circumstances.
+Although CPython will garbage collect the file object following the read operation, other implementations of Python may not. The file often is not immediately closed and is left to be disguarded at a later unknown point of execution. Additionally, in Python 3.2 or above the current implementation will throw a ResourceWarning exception which must otherwise be caught if enabled. Better safe than sorry."
+8973e7b7acda4145d88621568f4e0a8751e24baa,Fixed AttributeError checking for all properties
+45bf9e7712a1980295a18680f17d06cb4b0bd5a8,"Merge pull request #55 from kyo-bad/fixed
+
+convert indent to space / reformat files based on PEP8"
+38ca7d924732138ed55283873de4013a3b45709a,"Merge pull request #46 from teror4uks/master
+
+Add new file for the get info from remoute servers"
+07ab5d2b13b56964eda8f39cfeab1deccd0e8c1d,"Added files via upload
+
+add new file for get info remoute servers"
+28a99fa1ff5d2cb6dd4ccc90dec757c59eec3685,"update README.md
+
+add get_youtube_view.py details"
+83432b91232921f76d067cb906779f218debb86d,"Tidy up comments and syntax, also add main() func."
+73652662c2f0c60b8ecdfc6b5446d460f58b9b8b,"Tidy up comments and syntax, also add main() func."
+aefe4c11c8e7750530c46d4e50ef2f32213f05ff,Fix Spacing
+6108afd2c63df14f3dc59ac33f1f3fc9b56f247f,"Merge pull request #29 from LoadCode/master
+
+Added Script serial_scanner.py"
+8161c242b5ecdf53267c421e5e9150cab06cadb5,added serial_scanner description
+0c7b532011c4c3d094b98be94501b101ab5fcd41,"Merge pull request #25 from SirChristian123/patch-4
+
+Fix the import error about fcrypt on WIndows"
+502beb73896c6fb15d62088f8d3a75c759805c71,"Merge pull request #19 from A1fus/typos
+
+Fix typos"
+178078d4ce12e4829d098895d526ccacedcb0266,"Fix the import error about fcrypt on WIndows
+
+Fixed the import error when using Windows because of crypt module not existing there. Regarding the issue recently of the 'no file found dictionary.txt' or 'no file found dictionary.txt' You need to create both the file and put it into the same directory because the project's zip file does not include them. Any questions or problem, please comment.
+
+Closes #8"
+0118c4f579fc15478fb346664e71e42f27477d95,"Merge pull request #16 from festus64/patch-2
+
+added exceptions"
+f42212e1f8f5498c9752d746b62bce8eb887209f,"update various aspects to increase readability
+
+- Added link to the Notepad++ homepage.
+- Made the list of files a bullet-ed list.
+- Added full stops to the end of all lines for consistency."
+c87e6f6540b7b5e2c7f83304e24ed723c383630e,added exceptions
+13a61f51785c02fb5a0cdc275916431202f8efef,After supplying the first 3 octets it will scan the final range for available addresses

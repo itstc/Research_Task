@@ -1,18 +1,11 @@
 Commit SHA,Commit message
-554ac6b23ee379a950e01997abd5c8cbb7f69610,Added screenshots!
-fc16af935ef2ee994262e1272d7558a75cb74564,Added knockback effect on damage
-19294d045e4f541cc6547714a7abce221ab5f030,Added Bear Mob
-4af7c86f11b83b3ae2a9629fbbda604349823e57,Added Ranger Outfit and Barbarian Mob
-ba4fd1b43bfb4b2440edb332b29ff41daf662eb3,Added armor item/sprites for player
-25c9e42f4581c39254f8167089e49d32c40e2160,Added Stats UI and weapon sprites/animations
-9ac87aead5131c2a1df39cd81f4bf20de70afa35,Cleaned up Map Generation and Added Smooth camera movement
-4fa961158397a8bcca6683508e192671796cc792,Added Gameobject class for chest and a transaction ui
-86cf86c7ddff5dfce190ce9e34eb1af1c5164c53,Added Projectiles
-0c54055a8b7a657f3d8a3076ce75f7eb5d89195b,Added AI for mobs and made exiting optional
-005d3c6d5a387269b9f9880dda1d8fd683bb7d9a,Added player status on hud and fixed animation bugs
-1caf4d7fa493b4a969dc50cbd37ab350d78e8433,"Added Entity Management, Exit Tile, Optimization"
-40e7cb583f484c52f5c085cf78dc8a55234be140,Added rarity and desc for items
-20a9956a829e07601ce4fbb4fc01572475681053,Added better dungeon
-8f82f580d4b0e98a53784848778b8947b6e50db7,Added walking/attacking animations for rest of the mobs
-79830074e3a47424762ae2cedeef1c0012b5a649,"Added seperate class for mob actions, new font, dead screen, mob damage"
-1e59b450dc4c627bd89309b074c654ba86198e26,Retextured mobs and added more items to database
+005d3c6d5a387269b9f9880dda1d8fd683bb7d9a,'Added player status on hud and fixed animation bugs'
+469962cc6f53b280fa75c45b0e3ff6a079d23400,'New PLayer texture and fixed bugs'
+7b79d5650dfa8f7ca5678072fcfe6397d2d5841c,'Fixed issue with spawning'
+ed5dc042f4da1284db299cd180bdc262b105768b,'Lots of bug fixes and optimization'
+23afade196a236dffb6754626fc77f987dee1a5d,'Fixed Camera and added Player'
+005d3c6d5a387269b9f9880dda1d8fd683bb7d9a,'Added player status on hud and fixed animation bugs'
+469962cc6f53b280fa75c45b0e3ff6a079d23400,'New PLayer texture and fixed bugs'
+7b79d5650dfa8f7ca5678072fcfe6397d2d5841c,'Fixed issue with spawning'
+ed5dc042f4da1284db299cd180bdc262b105768b,'Lots of bug fixes and optimization'
+23afade196a236dffb6754626fc77f987dee1a5d,'Fixed Camera and added Player'
