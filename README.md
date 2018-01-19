@@ -1,4 +1,4 @@
-# Reseach Task
+# Research Task
 Retrieves all commits of a repository using Github REST api v3 and filters out commits with keywords specified
 
 #### Installation
