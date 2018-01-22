@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ##### 4. Run Task Script
 In your terminal, change to this repository folder and run this command:
 ```
-python task.py
+python3 task.py
 ```
 
 #### Authentication Note:

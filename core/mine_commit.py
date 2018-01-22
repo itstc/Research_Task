@@ -45,3 +45,8 @@ def filter_commits(data, keywords=['fix']):
 def is_repository(repo):
     # checks if request sends back an OK status code
     return requests.get("{}/repos/{}".format(start_page, repo)).status_code == 200
+
+
+def get_branch_commits(repo, branch, authData = ('','')):
+    # returns a list of commits from a repository branch
+    return requests.get("{}/repos/{}/branches/{}".format(start_page, repo, branch), auth = authData)['commit']
