@@ -15,6 +15,6 @@ def main():
 
     out = input('Enter where to output file: ')
     data = load_commits(repo, (user, auth_key))
-    export_to_csv(data, out)
+    export_to_csv(out, data)
 
 main()

@@ -3,16 +3,13 @@ Retrieves all commits of a repository using Github REST api v3 and filters out c
 
 #### Installation
 
-Requirements: Python3.6, pip
+Requirements: Python3.6, pip3
 
-To install virtualenv on your machine run in your terminal
-```pip install virtualenv```
-
-##### 1. Once virtualenv has been installed
+##### 1. Create a virtual environment
 
 Goto the directory you want to store your virtualenv
 ```
-virtualenv ENV_NAME
+python3 -m venv ENV_NAME
 
 cd ENV_NAME
 ```
@@ -35,7 +32,7 @@ source bin/activate
 ```
 git clone https://github.com/ThomasChuDesigns/Research_Task.git
 cd Research_Task
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ##### 4. Run Task Script
